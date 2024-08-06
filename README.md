@@ -5,6 +5,7 @@ Below is a guide
 
 
 
+
 **2.0 Introduction**
 In this task, we will create an RFID door lock system using an RFID module (MFRC522) and a servo motor to demonstrate the control of door access based on registered RFID tags.
 2.1 Working of the Prototype
